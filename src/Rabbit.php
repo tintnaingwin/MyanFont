@@ -46,8 +46,8 @@ class Rabbit
         foreach ($rule as $data) {
             $from_json = $data['from'];
 
-            //search line break.
-            //if line break include , need to fix the line
+            // search line break.
+            // if line break include , need to fix the line
             if (strpos($from_json, chr(13)) !== false) {
                 $from_json = self::parseline($from_json);
             }
