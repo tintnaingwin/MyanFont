@@ -27,7 +27,7 @@ Unsupported since 27-4-2024
 Unsupported since 27-4-2024
 - [PHP ^5.5.6](http://php.net/)
 
-Read the extensive documentation [on version 0.x](https://github.com/tintnaingwinn/MyanFont/tree/v0.x) and [on version 1.x](https://github.com/tintnaingwinn/MyanFont/tree/v1).
+Read the extensive documentation [on version 0.x](https://github.com/tintnaingwin/MyanFont/tree/v0.x) and [on version 1.x](https://github.com/tintnaingwin/MyanFont/tree/v1).
 
 ## Installation
 You can install this package via composer using this command:

@@ -12,7 +12,7 @@ it('convert unicode to zawgyi', function () {
 
 it('parse line', function () {
     $string = $this->unicodeData();
-    $object = new Rabbit();
+    $object = new Rabbit;
     $method = getPrivateMethod('Tintnaingwin\MyanFont\Rabbit', 'parseline');
 
     $result = $method->invokeArgs($object, [$string]);

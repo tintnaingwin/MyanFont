@@ -8,12 +8,12 @@
         "myanmar-font",
         "myanfont"
     ],
-    "homepage": "https://github.com/tintnaingwinn/MyanFont",
+    "homepage": "https://github.com/tintnaingwin/MyanFont",
     "license": "MIT",
     "authors": [
         {
             "name": "Tint Naing Win",
-            "email": "amigo.k8@gmail.com"
+            "email": "tintnaingwin.code@gmail.com"
         }
     ],
     "require": {
