@@ -2,14 +2,15 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tintnaingwin/myanfont.svg?style=flat-square)](https://packagist.org/packages/tintnaingwin/myanfont)
 [![Laravel 11.x](https://img.shields.io/badge/Laravel-11.x-red.svg?style=flat-square)](http://laravel.com/docs/11.x)
+[![Laravel 12.x](https://img.shields.io/badge/Laravel-12.x-red.svg?style=flat-square)](http://laravel.com/docs/12.x)
 [![Total Downloads](https://img.shields.io/packagist/dt/tintnaingwin/myanfont.svg?style=flat-square)](https://packagist.org/packages/tintnaingwin/myanfont)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://packagist.org/packages/tintnaingwin/myanfont)
 
 ## Requirements
 
 #### version-4.*
-- [PHP ^8.2|^8.3](http://php.net/)
-- [Laravel ^11.x](https://github.com/laravel/framework)
+- [PHP ^8.2|^8.3|^8.4](http://php.net/)
+- [Laravel ^11.x|^12.x](https://github.com/laravel/framework)
 
 #### version-3.*
 - [PHP ^8.0|^8.1|^8.2](http://php.net/)
