@@ -24,7 +24,7 @@ class MyanFontServiceProvider extends ServiceProvider
         $this->mergeConfigFrom(__DIR__.'/../config/myanfont.php', 'myanfont');
 
         $this->app->singleton('myanfont', function ($app) {
-            return new MyanFont();
+            return new MyanFont;
         });
     }
 }

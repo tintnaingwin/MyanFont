@@ -8,25 +8,29 @@
         "myanmar-font",
         "myanfont"
     ],
-    "homepage": "https://github.com/tintnaingwinn/MyanFont",
+    "homepage": "https://github.com/tintnaingwin/MyanFont",
     "license": "MIT",
     "authors": [
         {
             "name": "Tint Naing Win",
-            "email": "amigo.k8@gmail.com"
+            "email": "tintnaingwin.code@gmail.com"
         }
     ],
     "require": {
         "php": "^8.2",
         "ext-json": "*",
-        "illuminate/contracts": "^11.0"
+        "illuminate/contracts": "^11.0|^12.0"
     },
     "require-dev": {
-        "laravel/pint": "^1.6",
-        "phpstan/phpstan": "^1.10",
-        "orchestra/testbench": "^8.11|^9.0",
-        "pestphp/pest": "^2.0",
-        "pestphp/pest-plugin-laravel": "^2.0"
+        "laravel/pint": "^1.10",
+        "larastan/larastan": "^2.0|^3.0",
+        "orchestra/testbench": "^9.0|^10.0",
+        "pestphp/pest": "^2.0|^3.0",
+        "pestphp/pest-plugin-laravel": "^2.0|^3.0",
+        "phpstan/extension-installer": "^1.1",
+        "phpstan/phpstan-deprecation-rules": "^1.0|^2.0",
+        "phpstan/phpstan-phpunit": "^1.0|^2.0",
+        "roave/security-advisories": "dev-latest"
     },
     "autoload": {
         "psr-4": {
