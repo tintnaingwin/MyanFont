@@ -2,6 +2,7 @@
 
 namespace Tintnaingwin\MyanFont\Tests;
 
+use Illuminate\Foundation\Application;
 use Orchestra\Testbench\TestCase as Orchestra;
 use Tintnaingwin\MyanFont\MyanFontServiceProvider;
 
@@ -14,7 +15,7 @@ abstract class TestCase extends Orchestra
     const UNICODE = 'unicode';
 
     /**
-     * @param  \Illuminate\Foundation\Application  $app
+     * @param  Application  $app
      */
     protected function getPackageProviders($app): array
     {
