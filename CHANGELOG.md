@@ -2,6 +2,14 @@
 
 All notable changes to `myanfont` will be documented in this file.
 
+## v4.2.0 - 2026-03-24
+
+### What's Changed
+
+* Support Laravel 13.x by @tintnaingwin in https://github.com/tintnaingwin/MyanFont/pull/18
+
+**Full Changelog**: https://github.com/tintnaingwin/MyanFont/compare/v4.1.0...v4.2.0
+
 ## v4.1.0 - 2025-03-16
 
 ### What's Changed
